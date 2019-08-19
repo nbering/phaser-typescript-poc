@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/nbering/phaser-typescript-poc#readme",
   "devDependencies": {
+    "@types/express": "^4.17.1",
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "phaser": "^3.19.0"
   }
 }
