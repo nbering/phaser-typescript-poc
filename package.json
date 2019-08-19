@@ -1,0 +1,19 @@
+{
+  "name": "@nbering/phaser-typescript-poc",
+  "version": "0.0.1",
+  "description": "Experimenting with a phaser+typescript base project before committing to something I'll keep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbering/phaser-typescript-poc.git"
+  },
+  "author": "Nicholas Bering <bering.nicholas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbering/phaser-typescript-poc/issues"
+  },
+  "homepage": "https://github.com/nbering/phaser-typescript-poc#readme"
+}
