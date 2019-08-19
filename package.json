@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/nbering/phaser-typescript-poc/issues"
   },
-  "homepage": "https://github.com/nbering/phaser-typescript-poc#readme"
+  "homepage": "https://github.com/nbering/phaser-typescript-poc#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "phaser": "^3.19.0"
+  }
 }
